@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<contrib>
+    <description>
+        <details contrib_type="Модули оплаты" last_update="2020-11-20"/>
+        <comments>Модуль оплаты Экспресс Платежи: ЕРИП</comments>
+        <credits>Автор: ООО ТриИнком</credits>
+    </description>
+	<addfile>
+		<file name="expresspayerip_notify.php" />
+        <file name="expresspayerip_result.html" />
+        <file name="expresspayerip_result.php" />
+        <file name="includes/modules/payment/expresspayerip.php" />
+        <file name="lang/russian/modules/payment/expresspayerip.php" />
+	</addfile>
+</contrib>
